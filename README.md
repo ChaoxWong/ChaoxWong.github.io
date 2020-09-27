@@ -24,8 +24,6 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
 
-<h1 id="chaoxwonggithubio">ChaoxWong.github.io</h1>
-
 <h2 id="catalogue-for-com5961">Catalogue for COM5961</h2>
 
 <p><a href="https://chaoxwong.github.io/COM5961/Problem-1/Index.html">Problem-1</a></p>
