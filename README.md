@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -26,13 +24,13 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
 
-<h1 id="chaoxwonggithubio" style="padding-left=30%;">ChaoxWong.github.io</h1>
+<h1 id="chaoxwonggithubio">ChaoxWong.github.io</h1>
 
-<h2 id="catalogue-for-com5961"style="padding-left=30%;">Catalogue for COM5961</h2>
+<h2 id="catalogue-for-com5961">Catalogue for COM5961</h2>
 
-<p style="padding-left=30%;"><a href="https://chaoxwong.github.io/COM5961/Problem-1/Index.html">Problem-1</a></p>
+<p><a href="https://chaoxwong.github.io/COM5961/Problem-1/Index.html">Problem-1</a></p>
 
-<p style="padding-left=30%;"><a href="https://chaoxwong.github.io/COM5961/Problem-2/index.html">Problem-2</a></p>
+<p><a href="https://chaoxwong.github.io/COM5961/Problem-2/index.html">Problem-2</a></p>
 
 
       
