@@ -30,7 +30,7 @@
 
 <p><a href="https://chaoxwong.github.io/COM5961/Problem-2/index.html">Problem-2</a></p>
 
-<p><a href="https://chaoxwong.github.io/COM5961/Problem-3/index.html">Problem-3</a></p>
+<p><a href="https://chaoxwong.github.io/COM5961/Problem-3/Index.html">Problem-3</a></p>
 
       
     </div>
