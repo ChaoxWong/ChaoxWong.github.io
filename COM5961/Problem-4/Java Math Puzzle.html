@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #bar{
+            border-style: dashed;
+            border-color: rgb(183, 163, 202);
+            width:400px;
+            height:300px;
+            position:fixed;
+            top:20%;
+            left:0;
+            right:0;
+            margin:0 auto;
+            text-align:center;
+            line-height:30px;
+           }
+
+    </style>
+</head>
+<body>
+    <div id='bar'>
+        <form id='game>'
+            <h5>This is a birthday math puzzle game. Your birthday can be figured out with one formula.</h5>
+            <h4>(x*4+9)*25+y-225=Your Birthday</h4>
+        <div id='form-group'>
+            <label>
+                Please enter your Birth Month in number as "x"
+            </label>
+            <input type='number' name='BirthMonth'>      
+        <div id='form-group'>
+            <label>
+                Please enter your Birth Date in number as "y"
+            </label>
+            <input type="number" name='BirthDate'>
+        </div>   
+            <button id='submitBtn' type='submit'>Play</button>
+        </div>
+ 
+
+    </div>
+    <script>
+        function calculate() {
+         var x = document.forms[0].BirthMonth.value;
+         var y = document.forms[0].BirthDate.value;
+         var z = x * 4 + 9;
+         var a = (z * 25 - 225) * 0.01 + y;
+         alert("Hey! Your Birthday is (" + x + "*4+9)*25+" +  y + "-225=" + a +'.');
+        }
+        document.getElementById('submitBtn').addEventListener('click', calculate);
+    </script>
+</body>
+</html>
