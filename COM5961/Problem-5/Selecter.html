@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .bgi {
+            background-image:url(image.jpg);
+            background-size: cover;
+            height:100%;
+            width:100%;
+            background-position:absolute;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
+</head>
+<body>
+    <div class="bgi">
+    <div class="intro" style="text-align: center;color:white;margin:20px 0 20px 0">
+        <h1>Field Goal of Stephen Curry</h1>
+        <p>
+        You can find out Filed Goal Perc of Steph Curry
+        <br>
+        in different areas of the court and different seasons here.
+        </p>
+    </div>
+    <div class="col-sm" style="margin-bottom:24px">
+        <form>
+            <select id="selecter" class="form-control" onchange="table()" style="width:100%;height: 32px";>
+            <option value selected disabled>Please Select</option>
+            <option value = "Achart">Select by Areas</option>
+            <option value = "Bchart">Select by Seasons</option>  
+            </select>
+        </form>
+    </div>
+    <div id="Achart" style="display:block">
+        <iframe class="airtable-embed" src="https://airtable.com/embed/shrOJRk0zZ9uKTyxF?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 0px solid #ccc;"></iframe>    </div>
+    <div id="Bchart" style="display:none">
+        <iframe class="airtable-embed" src="https://airtable.com/embed/shrLjbifkuRWS5n78?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 0px solid #ccc;"></iframe>  
+    </div>
+    <script type="text/javascript">
+       function table(){
+       document.getElementById("Achart").style.display="none";
+       document.getElementById("Bchart").style.display="none";
+       var value = document.getElementById("selecter").value;
+       document.getElementById(value).style.display="block";
+       }
+    </script>
+    
+</body>
+</html>
