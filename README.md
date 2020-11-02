@@ -4,6 +4,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQ83WTH');</script>
+<!-- End Google Tag Manager -->
+
 <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>ChaoxWong.github.io | Com5961</title>
 <meta name="generator" content="Jekyll v3.9.0" />
@@ -20,8 +28,13 @@
 
     <link rel="stylesheet" href="/assets/css/style.css?v=c0475c177dc0d841798d1eae74688c54a8d9642e">
   </head>
+
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQ83WTH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="container-lg px-3 my-5 markdown-body">
       
 
 <h2 id="catalogue-for-com5961">Catalogue for COM5961</h2>
