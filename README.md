@@ -48,19 +48,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <h2 id="catalogue-for-com5961">Catalogue for COM5961 Assignments</h2>
 
-<p><a href="https://chaoxwong.github.io/COM5961/Problem-1/Index.html">Problem-1</a></p>
-
-<p><a href="https://chaoxwong.github.io/COM5961/Problem-2/index.html">Problem-2</a></p>
-
-<p><a href="https://chaoxwong.github.io/COM5961/Problem-3/Index.html">Problem-3</a></p>
-
-<p><a href="https://chaoxwong.github.io/COM5961/Problem-4/Index.html">Problem-4</a></p>
-
-<p><a href="https://chaoxwong.github.io/COM5961/Problem-5/Index.html">Problem-5</a></p>
-
-<p><a href="https://chaoxwong.github.io/COM5961/Problem-6/Index.html">Problem-6</a></p>
-
 <button type="button" class="btn btn-outline-primary"><a href="https://chaoxwong.github.io/COM5961/Problem-1/Index.html">Problem-1</a></button>
+
+<button type="button" class="btn btn-outline-primary"><a href="https://chaoxwong.github.io/COM5961/Problem-2/Index.html">Problem-2</a></button>
+
+<button type="button" class="btn btn-outline-primary"><a href="https://chaoxwong.github.io/COM5961/Problem-3/Index.html">Problem-3</a></button>
+
+<button type="button" class="btn btn-outline-primary"><a href="https://chaoxwong.github.io/COM5961/Problem-4/Index.html">Problem-4</a></button>
+
+<button type="button" class="btn btn-outline-primary"><a href="https://chaoxwong.github.io/COM5961/Problem-5/Index.html">Problem-5</a></button>
+
+<button type="button" class="btn btn-outline-primary"><a href="https://chaoxwong.github.io/COM5961/Problem-6/Index.html">Problem-6</a></button>
 
 <p><a href="https://github.com/ChaoxWong/ChaoxWong.github.io/raw/master/COM5961/ProductRequirementDoc/PRD_HUANGChaoxiong_1155145780.docx.pdf">Final Project Proposal</a></p>
       
