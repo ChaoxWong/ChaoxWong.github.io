@@ -60,7 +60,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <p><a href="https://chaoxwong.github.io/COM5961/Problem-6/Index.html">Problem-6</a></p>
 
-<button type="button" class="btn btn-outline-primary"><a href="https://chaoxwong.github.io/COM5961/Problem-1/Index.html"></a></button>
+<button type="button" class="btn btn-outline-primary"><a href="https://chaoxwong.github.io/COM5961/Problem-1/Index.html">Problem-1</a></button>
 
 <p><a href="https://github.com/ChaoxWong/ChaoxWong.github.io/raw/master/COM5961/ProductRequirementDoc/PRD_HUANGChaoxiong_1155145780.docx.pdf">Final Project Proposal</a></p>
       
