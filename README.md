@@ -49,6 +49,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <p><a href="https://chaoxwong.github.io/COM5961/Problem-5/Index.html">Problem-5</a></p>
 
+<p><a href="https://chaoxwong.github.io/COM5961/Problem-6/Index.html">Problem-6</a></p>
+
 <p><a href="https://github.com/ChaoxWong/ChaoxWong.github.io/raw/master/COM5961/ProductRequirementDoc/PRD_HUANGChaoxiong_1155145780.docx.pdf">Final Project Proposal</a></p>
       
     </div>
