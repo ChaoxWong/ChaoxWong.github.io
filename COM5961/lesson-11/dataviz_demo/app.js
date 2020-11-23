@@ -7,7 +7,7 @@ var map = L.map('map')
  layerGroup = L.layerGroup().addTo(map);
 
  var items = [];
- var airtable_read_endpoint = "https://api.airtable.com/v0/appc729PHAJqz8Vk0/Product?api_key=keymJcUL8p26aC8RC";
+ var airtable_read_endpoint = "https://api.airtable.com/v0/appc729PHAJqz8Vk0/Venues?api_key=keymJcUL8p26aC8RC";
  var data = [];
  $.getJSON(airtable_read_endpoint, function(result) {
        $.each(result.records, function(key,value) {
@@ -41,7 +41,7 @@ function clear_map() {
     layerGroup = L.layerGroup().addTo(map);
 
     var items = [];
-    var airtable_read_endpoint = "https://api.airtable.com/v0/appc729PHAJqz8Vk0/Product?api_key=keymJcUL8p26aC8RC";
+    var airtable_read_endpoint = "https://api.airtable.com/v0/appc729PHAJqz8Vk0/Venues?api_key=keymJcUL8p26aC8RC";
     var data = [];
     $.getJSON(airtable_read_endpoint, function(result) {
           $.each(result.records, function(key,value) {
@@ -93,7 +93,7 @@ $(document).ready(function(){
       var items = [];
       var i = 0;
       $('.table-responsive').show();
-      var airtable_read_endpoint = "https://api.airtable.com/v0/appc729PHAJqz8Vk0/Product?api_key=keymJcUL8p26aC8RC";
+      var airtable_read_endpoint = "https://api.airtable.com/v0/appc729PHAJqz8Vk0/Roll-up?api_key=keymJcUL8p26aC8RC";
       $.getJSON(airtable_read_endpoint, function(result) {
             $.each(result.records, function(key,value) {
                 items = [];
@@ -123,7 +123,7 @@ $(document).ready(function(){
         var items = [];
         var i = 0;
         $('.table-responsive').show();
-        var airtable_read_endpoint = "https://api.airtable.com/v0/appc729PHAJqz8Vk0/Product?api_key=keymJcUL8p26aC8RC";
+        var airtable_read_endpoint = "https://api.airtable.com/v0/appc729PHAJqz8Vk0/Roll-up?api_key=keymJcUL8p26aC8RC";
         $.getJSON(airtable_read_endpoint, function(result) {
               $.each(result.records, function(key,value) {
                   items = [];
