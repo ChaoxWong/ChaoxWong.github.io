@@ -1,0 +1,16 @@
+/*
+Theme Name: Com5961
+Author: Bernard Suen
+Author URI: https://ybsuen.github.io
+Description: Demo theme for com5961.
+Version: 0.1
+*/
+
+a.hlink {
+    text-decoration:none
+}
+
+.p-6 {
+    padding-right: 30px;
+    padding-left: 50px;
+}
