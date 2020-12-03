@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Rajdhani&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap-reboot.css">
+    <link rel="stylesheet" href="css/bootstrap-grid.css">
+    <link rel="stylesheet" href="css/2.css">
+    <link href="css/1.css" rel="stylesheet" />
+    <script src="jquery.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/bootstrap.bundle.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>  
+    <title>Videos</title>
+</head>
+<body>
+  <nav>
+    <input type="checkbox" id="check">
+    <label for="check" class="checkbtn">
+      <i class="fas fa-bars"></i>
+    </label>
+    <label class="logo">SC</label>
+    <ul id="list">
+      <li>
+        <a href="HOME.html">HOME</a>
+      </li>
+      <li>
+        <div class="drop">
+        <a href="Award.html">BIOGRAPHY</a>
+            <ul class="drop_con">
+                
+                <li><a href="Award.html">Awards and Honors</a></li>
+                <li><a href="CareerIntro.html">Career Introduction</a></li>
+                <li><a href="Off-court.html">Off-court Life</a></li>
+                
+            </ul>
+        </div>
+    </li>
+      <li>
+        <a href="Timeline.html">CAREER TIMELINE</a>
+      </li>
+      <li>
+        <a class="active" href="Video.html">VIDEOS</a>
+      </li>
+      <li>
+        <a href="">STORE</a>
+      </li>
+    </ul>
+    <ul id="list0">
+      <li>
+        <a class="active" href="HOME.html">HOME</a>
+      </li>
+      <li>
+        <a href="Award.html">BIOGRAPHY</a>
+      </li>
+      <li>
+        <a href="Timeline.html">CAREER TIMELINE</a>
+      </li>
+      <li>
+        <a href="v">VIDEOS</a>
+      </li>
+      <li>
+        <a href="">STORE</a>
+      </li>
+    </ul>
+  </nav>
+    <div class="homecontent" id="videohc">
+        <div class="container-fluid" style="height:340px;margin-top:300px;">
+            <div class="row" id="vrow">
+                <div class="col-7" id="rowvideo">
+                    <div id="media" controls>
+                    <iframe id="v1" width="560" height="315" src="https://www.youtube.com/embed/xTJcASRxbfI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="col-5" id="rowmenu">
+                    <div id="menubtn">
+                        <div class="dropdown">
+                            <button class="btn btn-outline-light btn-lg btn-block dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Select
+                            </button>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+                            <button class="btn btn-lg btn-block dropdown-item" type="button" onclick="cki1()">Play Videos</button>
+                            <button class="btn btn-lg btn-block dropdown-item" type="button" onclick="cki2()">Introduction Videos</button>
+                            <button class="btn btn-lg btn-block dropdown-item" type="button" onclick="cki3()">Interview Videos</button>
+                            </div>
+                        </div>
+                    </div>
+                        <ol class="menuvideos" id="playvideo">
+                            <li>
+                                <button id="u2"  class="livideo" style="color:white;padding-top:10px;">
+                                    <span class="spanvideo">Best Play 2017-2018</span>
+                                </button> 
+                            </li>
+                            <li>
+                                <button id="u1"  class="livideo" style="color:white;padding-top:10px;">
+                                    <span class="spanvideo">Best Play 2016-2017</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u8" class="livideo" style="color:white;padding-top:10px;">
+                                    <span class="spanvideo">Best Play 2015-2016</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u4" class="livideo" style="color:white;padding-top:10px;">
+                                    <span class="spanvideo">Career Long-Distance Threes</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u5" class="livideo" style="color:white;padding-top:10px;">
+                                    <span class="spanvideo">Best Crossovers & Handles</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u6" class="livideo" style="color:white;padding-top:10px;">
+                                    <span class="spanvideo">IMPOSSIBLE ASSIST Compilation</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u7" class="livideo" style="color:white;padding-top:10px;">
+                                    <span class="spanvideo">Career Dunks</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u3" class="livideo" style="color:white;padding-top:10px;">
+                                    <span class="spanvideo">Top 30 Plays</span>
+                                </button>
+                            </li>
+                        </ol>
+                        <ol class="menuvideos" id="introvideo">
+                            <li>
+                                <button id="u9" class="livideo" style="color:white;">
+                                    <span class="spanvideo">Stephen Curry documentary "The Journey"</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u10" class="livideo" style="color:white;">
+                                    <span class="spanvideo">FUNNY MOMENTS</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u11" class="livideo" style="color:white;">
+                                    <span class="spanvideo">The BIRTH of Steph Curry</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u12" class="livideo" style="color:white;">
+                                    <span class="spanvideo">Timeline of How Stephen Curry Changed the NBA</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u14" class="livideo" style="color:white;">
+                                    <span class="spanvideo">Changing the Game: Splash Brothers</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u13" class="livideo" style="color:white;">
+                                    <span class="spanvideo">Childhood</span>
+                                </button>
+                            </li>
+                        </ol>
+                        <ol class="menuvideos" id="intervideo">
+                            <li>
+                                <button id="u21" class="livideo" style="color:white;">
+                                    <span class="spanvideo">Stephen Curry Explains His Slip & Airball</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u15" class="livideo" style="color:white;">
+                                    <span class="spanvideo">The Funny Side of Steph Curry</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u16" class="livideo" style="color:white;">
+                                    <span class="spanvideo">Splash Bros and Bad Boys</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u17" class="livideo" style="color:white;">
+                                    <span class="spanvideo">Stephen Curry on The Ellen Show</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u18" class="livideo" style="color:white;">
+                                    <span class="spanvideo">Curry's Daughter Riley in the Interview</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u19" class="livideo" style="color:white;">
+                                    <span class="spanvideo">Curry on The Tonight Show</span>
+                                </button>
+                            </li>
+                            <li>
+                                <button id="u20" class="livideo" style="color:white;">
+                                    <span class="spanvideo">Best of Reporter Steph</span>
+                                </button>
+                            </li>
+                            
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>    
+    <script>
+        $('.dropdown-toggle').dropdown()
+    </script> 
+    </div>
+            
+</body>
+<script>
+    window.onload=function() {
+      var oBtn=document.getElementsByClassName("checkbtn")[0];
+      var oList=document.getElementById("list0");
+      var oClose=document.getElementById("close");
+      var style=oList.style;
+      oBtn.onclick=function(){
+          style.display = style.display == "none" ? "block" : "none"
+      }
+    }
+
+    window.onload=function(){
+    document.getElementById("u1").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/xTJcASRxbfI";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u2").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/PUMk1TAUpfQ";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u3").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/2hIrbnVx4k4";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u4").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/xbVOipRS2rc";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u5").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/xy0p42tfhsE";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u6").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/NpvRYMpjK-I";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u7").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/_hnl3Bw--eQ";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u8").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/G8IeiioovoQ";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u9").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/y_q2-zai8zU";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u10").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/tkPawJst8gw";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u11").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/_7FSwovGoFM";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u12").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/aCYJVs2G-XI";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u13").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/9jgoidz2usw";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u13").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/9jgoidz2usw";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u14").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/vSuMfSp1Z4A";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u15").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/Z4UDuEkKtvg";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u16").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/Go7KHaGckZw";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u17").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/J5CVUVF-Nr8";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u18").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/evjJJoEONgo";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u19").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/pMSiunfo5IE";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u20").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/Yw7BDxLrPSU";
+        document.getElementById("media").load();
+    }
+    document.getElementById("u21").onclick=function(){
+        document.getElementById("v1").src="https://www.youtube.com/embed/Uwrx7ajvP9o";
+        document.getElementById("media").load();
+    }
+}
+    
+
+    function cki1(){
+        document.getElementById('playvideo').style.display='block';
+        document.getElementById('introvideo').style.display='none';
+        document.getElementById('intervideo').style.display='none';
+    }
+    function cki2(){
+        document.getElementById('introvideo').style.display='block';
+        document.getElementById('playvideo').style.display='none';
+        document.getElementById('intervideo').style.display='none';
+    }
+    function cki3(){
+        document.getElementById('introvideo').style.display='none';
+        document.getElementById('playvideo').style.display='none';
+        document.getElementById('intervideo').style.display='block';
+    }
+
+
+
+</script>
+</html>

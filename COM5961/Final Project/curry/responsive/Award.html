@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Rajdhani&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap-reboot.css">
+    <link rel="stylesheet" href="css/bootstrap-grid.css">
+    <link rel="stylesheet" href="css/2.css">
+    <link href="css/1.css" rel="stylesheet" />
+    <script src="jquery.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/bootstrap.bundle.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>  
+    <title>Award</title>
+</head>
+<body>
+  <nav>
+    <input type="checkbox" id="check">
+    <label for="check" class="checkbtn">
+      <i class="fas fa-bars"></i>
+    </label>
+    <label class="logo">SC</label>
+    <ul id="list">
+      <li>
+        <a  href="HOME.html">HOME</a>
+      </li>
+      <li>
+        <div class="drop">
+        <a class="active" href="Award.html">BIOGRAPHY</a>
+            <ul class="drop_con">
+                
+                <li><a href="Award.html">Awards and Honors</a></li>
+                <li><a href="CareerIntro.html">Career Introduction</a></li>
+                <li><a href="Off-court.html">Off-court Life</a></li>
+                
+            </ul>
+        </div>
+    </li>
+      <li>
+        <a href="Timeline.html">CAREER TIMELINE</a>
+      </li>
+      <li>
+        <a href="Video.html">VIDEOS</a>
+      </li>
+      <li>
+        <a href="">STORE</a>
+      </li>
+    </ul>
+    <ul id="list0">
+      <li>
+        <a class="active" href="HOME.html">HOME</a>
+      </li>
+      <li>
+        <a href="Award.html">BIOGRAPHY</a>
+      </li>
+      <li>
+        <a href="Timeline.html">CAREER TIMELINE</a>
+      </li>
+      <li>
+        <a href="v">VIDEOS</a>
+      </li>
+      <li>
+        <a href="">STORE</a>
+      </li>
+    </ul>
+  </nav>
+          <div class="container">
+            <div class="row">
+              <div class="col-md-6" id="home1">
+                <div class="home1">
+                    <h1 class="DCtitle">Awards and Honors</h1>        
+                  <br>
+                  <div class="reminding" style="margin-bottom: 50px; font-family:roboto;font-weight:lighter; font-size:18px; color:white;text-align:left">
+                    <ul>
+                        <li>
+                            <p>3 × NBA Championships </p>
+                        </li>
+                        <li>
+                            <p>2 × NBA Most Valuable Player (MVP) </p>
+                        </li>
+                        <li>
+                            <p>6 × NBA All-Star </p>
+                        </li>
+                        <li>
+                            <p>5 × NBA Three-Point Field Goal Leader </p>
+                        </li>
+                        <li>
+                            <p>1 × NBA Scoring Leader</p>
+                        </li>
+                        <li>
+                            <p>1 × NBA Steals Leader</p>
+                        </li>
+                        <li>
+                            <p>1 × NBA Three-Point Contest Champion</p>
+                        </li>
+                        <li>
+                            <p>6 × All-NBA Selection</p>
+                        </li>
+                        <li>
+                            <p>NBA Regular Season Record for Made Three-Pointers (402)</p>
+                        </li>
+                        <li>
+                            <p>NBA Finals Record for most Three-Pointers in a game (9)</p>
+                        </li>
+                    </ul>
+                    </div>
+                </div>
+              </div>
+              <div class="col-md-6" id="home2">
+                <div class="home2">
+                    <div class="awardimg1">
+                        <img src="images/awardimg_1.jpg"  alt="Responsive image" style="width:100%;">
+                    </div>
+                    <div class="awardimg2">
+                        <img src="images/awardimg_2.jpg"  alt="Responsive image" style="width:100%;">
+                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
+</body>
+<script>
+    window.onload=function() {
+        var oBtn=document.getElementsByClassName("checkbtn")[0];
+        var oList=document.getElementById("list0");
+        var oClose=document.getElementById("close");
+        var style=oList.style;
+        oBtn.onclick=function(){
+            style.display = style.display == "none" ? "block" : "none"
+        }
+    }
+  </script>
+</html>
