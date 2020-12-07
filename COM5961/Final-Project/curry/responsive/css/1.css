@@ -302,7 +302,7 @@
   
   bottom:0px;
   height:162px;
-  background:url('images/Rectangle.png') repeat-x center;
+  background:url('../images/Rectangle.png') repeat-x center;
   padding-left:40px;
   /* background-color: black; */
 }
@@ -310,7 +310,7 @@
 
 .container-timeline li{
   float:left;
-  background:url('images/dribbble.png') no-repeat center top;
+  background:url('../images/dribbble.png') no-repeat center top;
   width:8%;
   text-align:center;
   margin-top:69px;
@@ -328,7 +328,7 @@
 }
 
 .time h1{
-  background: url('images/radio.png') no-repeat center;
+  background: url('../images/radio.png') no-repeat center;
   margin-top:px;
   height:70px;
   line-height:70px;
