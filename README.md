@@ -54,6 +54,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <br>
 <button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://chaoxwong.github.io/COM5961/Problem-3/Index.html">Problem-3</a></button>
 <br>
+<button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://github.com/ChaoxWong/ChaoxWong.github.io/raw/master/COM5961/ProductRequirementDoc/PRD_HUANGChaoxiong_1155145780.docx.pdf">Final Project Proposal</a></button>
+<br>
 <button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://chaoxwong.github.io/COM5961/Problem-4/Index.html">Problem-4</a></button>
 <br>
 <button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://chaoxwong.github.io/COM5961/Problem-5/Index.html">Problem-5</a></button>
@@ -66,9 +68,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <br>
 <button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://chaoxwong.github.io/COM5961/Problem-9/Index.html">Problem-9</a></button>
 <br>
-<button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://github.com/ChaoxWong/ChaoxWong.github.io/raw/master/COM5961/ProductRequirementDoc/PRD_HUANGChaoxiong_1155145780.docx.pdf">Final Project Proposal</a></button>
-<br>
-<button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://chaoxwong.github.io/COM5961/Final-Project/Index.html">Final HTML</a></button>
+<button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://chaoxwong.github.io/COM5961/Final-Project/Index.html">Final Project</a></button>
 </div>
 </div>
       
