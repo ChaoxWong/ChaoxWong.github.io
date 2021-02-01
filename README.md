@@ -21,7 +21,7 @@
     <script src="jquery.min.js"></script>
     <script src="js/bootstrap.js"></script>
     <script src="js/bootstrap.bundle.js"></script>
-    <script src="js/popper.min.js"></script>
+    <script src="/js/popper.min.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
     <script src="https://unpkg.com/element-ui/lib/index.js"></script>
     <link rel="canonical" href="https://chaoxwong.github.io/" />
@@ -91,5 +91,4 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
-</script>
 </html>
