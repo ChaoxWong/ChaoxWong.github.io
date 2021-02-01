@@ -88,7 +88,6 @@
     </table>
 </div>
 </div>
-</div>
 <div style="line-height:20px;position:absolute;left:50%;transform:translate(-50%,-0%);text-align: center;margin:20px;">
 </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
