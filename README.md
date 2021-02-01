@@ -41,10 +41,10 @@
     <!-- <h2 id="catalogue-for-com5961" style="font-family: rajdhani;">Chaoxiong HUANG (Rookie)'s' Assignment Page</h2> -->
     <br>
     <table class="table table-striped" style="border:0.5">
-        <tr class="table-warning">
+        <tr class="table-warning" style="width:100%;">
             <th style="font-family: rajdhani;">Assignments for COM5940</th>
         </tr>
-        <tr class="table table-striped">
+        <tr class="table table-striped" style="width:100%;">
             <th><a href="https://chaoxwong.github.io/COM5940/Assignment-1/Index.html">Assignment-1</a></th>
         </tr>
     </table>
