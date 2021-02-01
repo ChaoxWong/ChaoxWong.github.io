@@ -74,7 +74,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 
 <div>
-<table border="1">
+<table class="table-light" border="1">
 <tr>
 <th>Assignment</th>
 <th>Link</th>
