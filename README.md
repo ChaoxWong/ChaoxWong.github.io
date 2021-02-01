@@ -28,7 +28,7 @@
     <meta property="og:url" content="https://chaoxwong.github.io/" />
     <meta property="og:site_name" content="ChaoxWong.github.io" />
     <script type="application/ld+json">
-    {"@type":"WebSite","headline":"ChaoxWong.github.io","url":"https://chaoxwong.github.io/","description":"Com5961","name":"ChaoxWong.github.io","@context":"https://schema.org"}</script>
+    {"@type":"WebSite","headline":"ChaoxWong.github.io","url":"https://chaoxwong.github.io/","description":"Com5961","name":"Chaoxiong HUANG (Rookie)'s' Assignment Page","@context":"https://schema.org"}</script>
     <!-- End Jekyll SEO tag -->
     <link rel="stylesheet" href="/assets/css/style.css?v=c0475c177dc0d841798d1eae74688c54a8d9642e">
   </head>
@@ -38,7 +38,7 @@
 <div class="container-lg px-3 my-5 markdown-body">
       
 <div class="body" style="line-height:20px;position:absolute;left:50%;transform:translate(-50%,-0%);text-align: center;">
-    <h2 id="catalogue-for-com5961" style="font-family: rajdhani;">Chaoxiong HUANG (Rookie)'s' Assignment Page</h2>
+    <!-- <h2 id="catalogue-for-com5961" style="font-family: rajdhani;">Chaoxiong HUANG (Rookie)'s' Assignment Page</h2> -->
     <br>
     <table class="table table-striped" style="border:0.5">
         <tr class="table-warning">
@@ -87,8 +87,6 @@
         </tr>
     </table>
 </div>
-</div>
-<div style="line-height:20px;position:absolute;left:50%;transform:translate(-50%,-0%);text-align: center;margin:20px;">
 </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
