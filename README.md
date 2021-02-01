@@ -70,6 +70,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <br>
 <button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://chaoxwong.github.io/COM5961/Final-Project/Index.html">Final Project</a></button>
 <br>
+</div>
+</div>
+
+<div>
 <table border="1">
 <tr>
 <th>Assignment</th>
@@ -77,14 +81,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </tr>
 <tr class="">
 <th>Assignment-1</th>
-<th><button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://chaoxwong.github.io/COM5961/Problem-2/Index.html">GO</a></button></th>
+<th><button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://chaoxwong.github.io/COM5961/Problem-1/Index.html">GO</a></button></th>
 </tr>
-
 </table>
-<table calss="table-warning"><a href="https://chaoxwong.github.io/COM5961/Problem-2/Index.html">Problem-2</a></table>
+</div>
 
-</div>
-</div>
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
