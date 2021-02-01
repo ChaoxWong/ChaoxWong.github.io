@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>ChaoxWong.github.io | Com5961</title>
+<title>Chaoxiong HUANG (Rookie)'s' Assignment Page | Com5961</title>
     <meta name="generator" content="Jekyll v3.9.0" />
     <meta property="og:title" content="ChaoxWong.github.io" />
     <meta property="og:locale" content="en_US" />
@@ -40,11 +40,11 @@
 <div class="body" style="line-height:20px;position:absolute;left:50%;transform:translate(-50%,-0%);text-align: center;">
     <!-- <h2 id="catalogue-for-com5961" style="font-family: rajdhani;">Chaoxiong HUANG (Rookie)'s' Assignment Page</h2> -->
     <br>
-    <table class="table table-striped" style="border:0.5;width:960px;">
-        <tr class="table-warning" style="width:960px;">
+    <table class="table table-striped" style="border:0.5;">
+        <tr class="table-warning">
             <th style="font-family: rajdhani;">Assignments for COM5940</th>
         </tr>
-        <tr class="table table-striped" style="width:960px;">
+        <tr class="table table-striped">
             <th><a href="https://chaoxwong.github.io/COM5940/Assignment-1/Index.html">Assignment-1</a></th>
         </tr>
     </table>
@@ -91,10 +91,5 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
-  <script>
-    var dropdownElementList = [].slice.call(document.querySelectorAll('.dropdown-toggle'))
-    var dropdownList = dropdownElementList.map(function (dropdownToggleEl) {
-      return new bootstrap.Dropdown(dropdownToggleEl)
-    })
 </script>
 </html>
