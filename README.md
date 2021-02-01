@@ -69,6 +69,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://chaoxwong.github.io/COM5961/Problem-9/Index.html">Problem-9</a></button>
 <br>
 <button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://chaoxwong.github.io/COM5961/Final-Project/Index.html">Final Project</a></button>
+<table class="table-primary"><a href="https://chaoxwong.github.io/COM5961/Problem-1/Index.html">Problem-1</a></table>
+<table calss="table-warning"><a href="https://chaoxwong.github.io/COM5961/Problem-2/Index.html">Problem-2</a></table>
+
 </div>
 </div>
       
