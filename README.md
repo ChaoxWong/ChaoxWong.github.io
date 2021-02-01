@@ -40,7 +40,7 @@
 <div class="body" style="line-height:20px;position:absolute;left:50%;transform:translate(-50%,-0%);text-align: center;">
     <!-- <h2 id="catalogue-for-com5961" style="font-family: rajdhani;">Chaoxiong HUANG (Rookie)'s' Assignment Page</h2> -->
     <br>
-    <table class="table table-striped" style="border:0.5">
+    <table class="table table-striped" style="border:0.5;width:960px;">
         <tr class="table-warning" style="width:960px;">
             <th style="font-family: rajdhani;">Assignments for COM5940</th>
         </tr>
