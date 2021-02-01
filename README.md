@@ -72,22 +72,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <br>
 </div>
 </div>
-
-<div>
+</div>
+<div class="body" style="line-height:20px;position:absolute;left:50%;transform:translate(-50%,-0%);text-align: center;margin:20px;">
 <table class="table-light" border="1">
 <tr>
 <th>Assignment</th>
-<th>Link</th>
 </tr>
 <tr class="">
-<th>Assignment-1</th>
-<th><button type="button" class="btn btn-outline-primary" style="margin-top: 10px;"><a href="https://chaoxwong.github.io/COM5961/Problem-1/Index.html">GO</a></button></th>
+<th><a href="https://chaoxwong.github.io/COM5961/Problem-1/Index.html">Problem-1</a></th>
 </tr>
 </table>
 </div>
 
       
-    </div>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
     
