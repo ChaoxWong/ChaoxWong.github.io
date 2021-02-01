@@ -44,7 +44,7 @@
             <th style="font-family: rajdhani;">Assignments for COM5940</th>
         </tr>
         <tr class="table table-striped">
-            <th><a href="https://chaoxwong.github.io/COM5961/Problem-1/Index.html">Assignment-1</a></th>
+            <th><a href="https://chaoxwong.github.io/COM5940/Assignment-1/Index.html">Assignment-1</a></th>
         </tr>
     </table>
     <table class="table table-striped" style="border:0.5">
