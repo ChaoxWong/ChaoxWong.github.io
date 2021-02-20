@@ -47,6 +47,9 @@
         <tr class="table table-striped">
             <th><a href="https://chaoxwong.github.io/COM5940/Assignment-1/Index.html">Assignment-1</a></th>
         </tr>
+        <tr class="table table-striped">
+            <th><a href="https://chaoxwong.github.io/COM5940/Assignment-2/Index.html">Assignment-2</a></th>
+        </tr>
     </table>
     <table class="table table-striped" style="border:0.5">
         <tr class="table-warning">
